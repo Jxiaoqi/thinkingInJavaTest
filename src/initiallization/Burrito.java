@@ -1,10 +1,5 @@
 package initiallization;
 
-import java.io.InputStream;
-import java.io.OutputStream;
-
-import com.sun.xml.internal.messaging.saaj.util.ByteOutputStream;
-
 /**
  * 枚举类型和  switch 配合使用  JDK5.0
  * @author admin
@@ -12,9 +7,6 @@ import com.sun.xml.internal.messaging.saaj.util.ByteOutputStream;
  */
 public class Burrito {
 	Spiciness degree;
-	InputStream;
-	OutputStream;
-	ByteOutputStream;
 	
 	public Burrito(Spiciness degree) {
 		this.degree = degree;
