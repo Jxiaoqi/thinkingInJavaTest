@@ -35,5 +35,6 @@ public class RTTI {
 		((MoreUseful)x[1]).u();		//Downcast /RTTI
 		((MoreUseful)x[0]).u();		//Exception thrown
 		
+		
 	}
 }
