@@ -2,7 +2,7 @@ package inerclasses;
 
 
 /**
- * 使用匿名内部类来改进Games
+ * 使用匿名内部类来改进Games----工厂设计模式.
  * @author admin
  *
  */
