@@ -9,6 +9,11 @@ package Exceptions;
  *
  */
 public class InheritingExceptions extends Exception {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	public void f() throws SimpleExction {
 		System.out.println("Throw SimpleException from f()");
 		throw new SimpleExction();

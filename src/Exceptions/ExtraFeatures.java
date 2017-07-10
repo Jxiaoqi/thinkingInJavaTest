@@ -9,6 +9,10 @@ import static util.Print.*;
  *
  */
 class MyException2 extends Exception {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private int x;
 	public MyException2() {}
 	public MyException2(String msg) {
