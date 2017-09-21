@@ -44,7 +44,6 @@ public  interface  Defaultable {
         defaultable = DefaultFactory.create(OverridableImpl::new);
         System.out.println(defaultable.notRequired());
 
-        
     }
 
 
