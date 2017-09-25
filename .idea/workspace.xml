@@ -4,299 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/java8feature/AppplesFilter.java" description="List&lt;Apple&gt; greenApples = filterApples(inventory, ..." line="19" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddb03d72-c107-4d7e-af8c-ddcb27dfd3cd" name="Default" comment="增加了java8 test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java8feature/ConsumerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java8feature/FunctionTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Exceptions/DynamicFields.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Exceptions/ExceptionMethods.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Exceptions/ExtraFeatures.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Exceptions/FullConstructor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Exceptions/InheritingExceptions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Exceptions/LoggingExceptions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Exceptions/LoggingExceptions2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Exceptions/RethrowNew.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Exceptions/Rethrowing.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Exceptions/WhoCalled.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/access/Cake.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/access/CholocateChip.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/access/Cookie.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/access/IceCream.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/access/Lunch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/access/Pie.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/arraytest/Array1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/arraytest/Array2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/arraytest/Array3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/arraytest/Array4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/arraytest/Array5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/arraytest/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/chapter_11/AppleAndOrangeWithGenerics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/chapter_11/ApplesAndOrangesWithoutGenerics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/chapter_11/GenericsAndUpcasting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/chapter_11/Gerbil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/chapter_one/ShowProperties.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/chapter_one/ShowProperties.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/chapter_one/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/concurrency/BasicThreads.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/concurrency/LiftOff.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/concurrency/MainThread.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/concurrency/MoreBasicThreads.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/control/LabeledFor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/control/LabeledWhile.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/control/ListCharacters.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/control/ViwelAndConstants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/control/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/AndingGroups.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/ApdapterMethodIdim.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/ApplesAndOranagesWithGenerics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/ApplesAndOranagesWithoutGenerics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/ArrayIsNotIterable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/AsListInterface.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/CollectionSequence.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/ContainerMethods.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/CrossContainerIteration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/EnvironmentVariables.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/ForEachCollection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/GenericsAndUpcasting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/InterfaceVsIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/IterableClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/LinkedListFeatures.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/ListFeatures.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/ListIteration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/ListIteratorTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/MapOfList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/ModifyingArraysAsList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/MultiIterableClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/NonCollectionSequence.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/PetMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/PrintingContainers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/PriorityQueueDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/QueueDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/SetOfInteger.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/SetOperations.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/SimpleCollection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/SimpleIteration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/SortedSetOfInteger.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/StackCollision.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/StackTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/Statistics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/UniqueWords.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/UniqueWordsAlphabetic.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/holding/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/AnonymousConstructor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/BigEgg.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/BigEgg2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/CallBacks.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/ClassInterface.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Contents.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Destination.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/DotNew.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/DotThis.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Factories.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Games.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/InheritInner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/LocalInnerClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/MultiImplimentation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/MultiInterfaces.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/MultiNestingAccess.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Parcel10.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Parcel11.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Parcel3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Parcel5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Parcel6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Parcel7.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Parcel7b.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Parcel8.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Parcel9.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Parcell1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Parcell2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Sequence.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/TestBed.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/TestParcel4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/Wrapping.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/controller/Controller.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/controller/Event.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/controller/GreenhouseController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/controller/GreenhouseControllers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/controller/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/inerclasses/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/AutoboxingVarargs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/Book.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/Burrito.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/EnumOrder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/ExplicitStatic.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/Flower.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/InitialValues.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/MethodInit3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/Mugs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/NewVarArgs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/OptionalTrailingArgument.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/OrderOfInitilization.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/OverloadingVarargs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/OverloadingVarargs2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/OverloadingVarargs3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/SimpleEnumUse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/Spiciness.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/StaticInitialization.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/TerminationCondition.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/VarArgs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/VarargType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/initiallization/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/AdaptedRandomDoubles.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/Factories.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/Games.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/HorrowShow.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/InterfacaeCollision.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/Months.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/NestingInterfaces.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/RandVals.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/RandomDoubles.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/RandomWords.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/TestRandVals.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/classprocessor/Adventure.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/classprocessor/Apply.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/filters/BandPass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/filters/Filter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/filters/HighPass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/filters/LowPass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/filters/Waveform.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/interfaceprocessor/Apply.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/interfaceprocessor/FilterProcessor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/interfaceprocessor/Processor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/interfaceprocessor/StringProcessor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/music4/Music4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/music5/Music5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/interfaces/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/AppleFancyFormat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/AppleFormat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/AppleGreenColorPredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/AppleHeavyWeithPredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/ApplePredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/AppleSimpleFormat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/AppplesFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/Car.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/Defaultable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/FileHidden.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/Lambda.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/Lambder2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/MeaningOfThis.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/Predicate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/PrintApplePredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/PrintGrrenApple.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/PrintHeavyPeople.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/TestSupplier.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/User.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/函数式接口.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/函数式编程之Supplier.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/接口的默认方法和静态方法.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8feature/范型1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operators/Assignment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operators/Overflow.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operators/PassObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operators/URShift.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/operators/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/CovariantReturn.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/FieldAccess.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/Frog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/PolyConstructors.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/PrivateOverride.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/RTTI.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/ReferenceCounting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/Sandwich.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/StaticPolymorphism.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/Transmogrify.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/music/Instrument.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/music/Music.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/music/Music2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/music/Note.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/music/Wind.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/music3/Music3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/shape/Circle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/shape/RandomShapeGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/shape/Shape.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/shape/Shapes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/shape/Square.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/polymorphism/shape/Triangle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/Bath.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/Beetle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/BlankFinal.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/CADSystem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/Car.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/Cartoon.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/Chess.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/DeterGent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/FinalArgument.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/FinalData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/FinalOverridingIllusion.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/Hide.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/Jurassic.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/Orc.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/PlaceSetting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/SpaceShip.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/SpaceShipControls.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/SpaceShipDelegation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/SpringklerSystem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/Wind.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resuing/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/seriliable_class/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/seriliable_class/SerilizationClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/seriliable_class/StorageTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/seriliable_class/Sub.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/seriliable_class/Super.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/AnonymousImplementation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/BoundedClassReferences.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/ClassCasts.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/ClassInitialization.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/FamilyVsExactType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/FilledList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/GenericClassReferences.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/HiddenImplementation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/InnerImplementation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/InterfaceViolation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/ModifyingPrivateFields.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/Operation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/PetCount.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/PetCount2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/PetCount3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/factory/Factory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/interfacea/A.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/packageaccess/HiddenC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/Cymric.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/Dog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/EgyptianMau.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/ForNameCreator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/Hamster.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/Individual.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/LiteralPetCreator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/Manx.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/Mouse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/Mutt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/Pet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/PetCreator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/Pets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/Pug.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/Rat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/pets/Rodent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/toys/GenericToyTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/typeinfo/toys/ToyTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/ContainerMethodDifferences.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/Generator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/MapData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/Null.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/Pair.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/Print.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/Sets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/Stack.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/TextFile.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkingInJavaTest.iml" afterPath="$PROJECT_DIR$/thinkingInJavaTest.iml" />
-    </list>
+    <list default="true" id="ddb03d72-c107-4d7e-af8c-ddcb27dfd3cd" name="Default" comment="增加了java8 test" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -323,7 +31,7 @@
       <file leaf-file-name="FunctionTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/java8feature/FunctionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
+            <state relative-caret-position="494">
               <caret line="21" column="42" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -594,7 +302,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistoryKey" value="Predicate&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/java/util/function/Predicate.class&#10;celue&#9;null&#9;null&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;parallelSt&#9;PSI&#9;JAVA://java.util.Collection#parallelStream&#10;keyMap&#9;ACTION&#9;ChangeKeymap&#10;keymap&#9;ACTION&#9;ChangeKeymap" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -832,15 +540,16 @@
       <workItem from="1505824517343" duration="4443000" />
       <workItem from="1505978148487" duration="235000" />
       <workItem from="1505978450629" duration="15601000" />
-      <workItem from="1506308915234" duration="11243000" />
+      <workItem from="1506308915234" duration="12100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57024000" />
+    <option name="totallyTimeSpent" value="57881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="-496" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -848,14 +557,14 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25809" sideWeight="0.5013828" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21654676" sideWeight="0.5023438" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08671875" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21654676" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21654676" sideWeight="0.49765626" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936803" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16953126" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="-936" y="-454" width="640" height="1390" />
@@ -1307,7 +1016,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java8feature/FunctionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
+        <state relative-caret-position="494">
           <caret line="21" column="42" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
