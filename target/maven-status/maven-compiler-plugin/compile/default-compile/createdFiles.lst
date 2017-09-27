@@ -18,6 +18,7 @@ resuing/Fork.class
 concurrency/MoreBasicThreads.class
 inerclasses/ServiceImplemetion1.class
 inerclasses/GameFactory.class
+java8feature/MethodReference.class
 java8feature/Lambda.class
 interfaces/interfaceprocessor/Downcase.class
 resuing/Homer.class
@@ -34,6 +35,7 @@ inerclasses/Checkers.class
 resuing/Door.class
 typeinfo/Base.class
 holding/EnvironmentVariables.class
+java8feature/Orange.class
 polymorphism/shape/Square.class
 interfaces/music4/Brass.class
 initiallization/House.class
@@ -109,6 +111,7 @@ initiallization/Window.class
 interfaces/ChessFactory.class
 typeinfo/toys/Toy.class
 holding/Fuji.class
+java8feature/FunctionCombination$Letter.class
 initiallization/OptionalTrailingArgument.class
 access/Pie.class
 inerclasses/Parcel6$1TrackingSlip.class
@@ -121,6 +124,7 @@ inerclasses/Test.class
 polymorphism/Cheese.class
 chapter_11/GenericsAndUpcasting.class
 inerclasses/Wrapping.class
+java8feature/ComparatorRecombination.class
 initiallization/Mugs.class
 resuing/Window.class
 polymorphism/Description.class
@@ -161,6 +165,7 @@ control/LabeledFor.class
 inerclasses/Parcel5.class
 initiallization/EnumOrder.class
 java8feature/TestSupplier.class
+java8feature/FunctionTest.class
 holding/MapOfList.class
 interfaces/classprocessor/Adventure.class
 Exceptions/WhoCalled.class
@@ -171,6 +176,7 @@ polymorphism/RoundGlyph.class
 concurrency/BasicThreads.class
 operators/Tank.class
 holding/PetMap.class
+java8feature/Fruit.class
 polymorphism/FieldAccess.class
 initiallization/NewVarArgs.class
 interfaces/classprocessor/CanFight.class
@@ -193,10 +199,12 @@ interfaces/classprocessor/Downcase.class
 resuing/Hide.class
 interfaces/E$H.class
 holding/ModifyingArraysAsList.class
+java8feature/VariableTest.class
 polymorphism/music/Brass.class
 interfaces/Implementation1.class
 polymorphism/Composing.class
 Exceptions/RethrowNew.class
+java8feature/Test.class
 interfaces/music5/WoodWind.class
 typeinfo/pets/Person.class
 holding/StackCollision.class
@@ -357,6 +365,7 @@ typeinfo/factory/Factory.class
 interfaces/interfaceprocessor/Upcase.class
 inerclasses/controller/Controller.class
 inerclasses/LocalInnerClass.class
+java8feature/ConstructorReference.class
 typeinfo/AnonymousImplementation.class
 resuing/SpaceShip.class
 typeinfo/toys/GenericToyTest.class
@@ -442,6 +451,7 @@ java8feature/MeaningOfThis$1.class
 interfaces/NestingInterfaces.class
 initiallization/Cup.class
 holding/SimpleCollection.class
+java8feature/FunctionCombination.class
 interfaces/A$BImp.class
 interfaces/classprocessor/ActionCharacter.class
 holding/MultiIterableClass$1.class
@@ -484,6 +494,7 @@ polymorphism/Meal.class
 polymorphism/Bread.class
 typeinfo/pets/Mutt.class
 typeinfo/AnonymousA.class
+java8feature/PredicateCombination.class
 polymorphism/music3/Woodwind.class
 polymorphism/Wheat.class
 interfaces/Factories.class
@@ -553,6 +564,7 @@ resuing/Villain.class
 resuing/Gizmo.class
 holding/MultiIterableClass$1$1.class
 operators/Letter.class
+java8feature/Apple.class
 inerclasses/Parcell1$Destination.class
 polymorphism/Transmogrify.class
 interfaces/music4/Music4.class
@@ -562,6 +574,7 @@ resuing/Cleanser.class
 polymorphism/Animal.class
 polymorphism/Grain.class
 typeinfo/InnerA$1.class
+java8feature/ConsumerTest.class
 typeinfo/pets/Pug.class
 resuing/Soap.class
 typeinfo/pets/Cymric.class

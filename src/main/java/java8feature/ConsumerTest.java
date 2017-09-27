@@ -19,6 +19,9 @@ public class ConsumerTest {
         List<String> list = Arrays.asList("a","v","b","e");
         forEach(list, (String s) -> System.out.println(s));
 
+        int portNumber = 1337;
+        Runnable r = () -> System.out.println(portNumber);
+        r.run();
     }
 
 }

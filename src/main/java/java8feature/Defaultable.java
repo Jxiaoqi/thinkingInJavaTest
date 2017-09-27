@@ -1,6 +1,5 @@
 package java8feature;
 
-import java.util.Collection;
 import java.util.function.Supplier;
 
 /**

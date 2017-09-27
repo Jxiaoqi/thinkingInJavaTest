@@ -19,6 +19,7 @@
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/inerclasses/MultiNestingAccess.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/resuing/SpaceShipDelegation.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/typeinfo/PetCount3.java
+/Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/Orange.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/typeinfo/AnonymousImplementation.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/polymorphism/StaticPolymorphism.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/holding/SimpleCollection.java
@@ -44,6 +45,7 @@
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/interfaces/Games.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/initiallization/Book.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/interfaces/Factories.java
+/Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/MethodReference.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/AppleFancyFormat.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/control/LabeledFor.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/Defaultable.java
@@ -92,7 +94,9 @@
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/inerclasses/Parcel7b.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/interfaces/TestRandVals.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/initiallization/Burrito.java
+/Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/ComparatorRecombination.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/ApplePredicate.java
+/Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/VariableTest.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/interfaces/filters/LowPass.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/resuing/SpringklerSystem.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/holding/ApplesAndOranagesWithoutGenerics.java
@@ -137,6 +141,7 @@
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/Exceptions/InheritingExceptions.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/holding/ListIteratorTest.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/polymorphism/shape/Circle.java
+/Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/Fruit.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/Exceptions/LoggingExceptions2.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/inerclasses/DotNew.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/initiallization/SimpleEnumUse.java
@@ -146,6 +151,7 @@
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/inerclasses/TestBed.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/resuing/FinalArgument.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/resuing/PlaceSetting.java
+/Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/FunctionCombination.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/AppleFormat.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/operators/URShift.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/typeinfo/GenericClassReferences.java
@@ -172,10 +178,12 @@
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/inerclasses/Parcel5.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/PrintGrrenApple.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/typeinfo/pets/Dog.java
+/Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/Apple.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/inerclasses/Sequence.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/initiallization/OptionalTrailingArgument.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/AppleGreenColorPredicate.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/typeinfo/pets/Pug.java
+/Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/ConstructorReference.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/polymorphism/shape/RandomShapeGenerator.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/access/Pie.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/inerclasses/DotThis.java
@@ -187,9 +195,11 @@
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/initiallization/Flower.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/inerclasses/Destination.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/interfaces/HorrowShow.java
+/Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/Test.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/Exceptions/ExceptionMethods.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/inerclasses/MultiInterfaces.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/resuing/DeterGent.java
+/Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/ConsumerTest.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/typeinfo/pets/EgyptianMau.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/initiallization/ExplicitStatic.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/resuing/Jurassic.java
@@ -240,6 +250,7 @@
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/inerclasses/controller/GreenhouseController.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/typeinfo/InnerImplementation.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/inerclasses/BigEgg.java
+/Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/FunctionTest.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/holding/ContainerMethods.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/inerclasses/BigEgg2.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/util/TextFile.java
@@ -254,6 +265,7 @@
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/typeinfo/pets/Pets.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/holding/PetMap.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/interfaces/Months.java
+/Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/java8feature/PredicateCombination.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/resuing/CADSystem.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/holding/ArrayIsNotIterable.java
 /Users/xiaoqi/dev/projects/github/thinkingInJavaTest/src/main/java/interfaces/filters/Waveform.java
