@@ -4,17 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/java8feature/AppplesFilter.java" description="List&lt;Apple&gt; greenApples = filterApples(inventory, ..." line="19" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddb03d72-c107-4d7e-af8c-ddcb27dfd3cd" name="Default" comment="增加了java8 test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java8feature/Chapter4/Dish.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java8feature/Chapter4/ForeachTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java8feature/Chapter4/StreamBasic.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java8feature/Chapter4/StreamOperatorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java8feature/Chapter4/StreamVsCollection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java8feature/Chapter5/FindAndMatch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java8feature/Chapter5/StreamTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java8feature/Chapter5/TradeMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java8feature/Chapter5/Trader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/java8feature/Chapter5/Transaction.java" />
+    <list default="true" id="ddb03d72-c107-4d7e-af8c-ddcb27dfd3cd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -687,12 +677,20 @@
       <workItem from="1506435218390" duration="675000" />
       <workItem from="1506435977680" duration="561000" />
       <workItem from="1506482365043" duration="38911000" />
-      <workItem from="1506859540604" duration="10608000" />
+      <workItem from="1506859540604" duration="10683000" />
     </task>
+    <task id="LOCAL-00001" summary="java8 5.4规约">
+      <created>1507017276943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507017276943</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132777000" />
+    <option name="totallyTimeSpent" value="132852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1440" height="799" extended-state="6" />
@@ -737,7 +735,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加了java8 test" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加了java8 test" />
+    <MESSAGE value="java8 5.4规约" />
+    <option name="LAST_COMMIT_MESSAGE" value="java8 5.4规约" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1004,6 +1003,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
