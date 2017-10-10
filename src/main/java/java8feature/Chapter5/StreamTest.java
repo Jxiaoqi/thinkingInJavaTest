@@ -79,19 +79,18 @@ public class StreamTest {
                 .map(word -> word.split(""))
                 .distinct()
                 .collect(toList());
-
         distinctWord.stream()
                 .forEach(strings -> {
                     Arrays.stream(strings).forEach(System.out::println);
                 });
         System.out.println(distinctWord);
+        System.out.println("-----------");
 
         //1.尝试使用map和 Arryas.stream()
         String[] arrayOFWords = {"GoodBye", "World"};
         Stream<String> streamOfWorld = Arrays.stream(arrayOFWords);
         System.out.println(streamOfWorld);
 
-        System.out.println("龙哥");
         worlds.stream()
                 .map(word -> word.split(""))   //{[g,o,o,b],[]}
                 .map(Arrays::stream)        //List<Stream<String>>

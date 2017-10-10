@@ -15,7 +15,7 @@ public class TradeMain {
     private static Trader alan = new Trader("Alan", "Cambridge");
     private static Trader brian = new Trader("Brain", "Cambridge");
 
-    private static List<Transaction> transactions = Arrays.asList(
+    public static List<Transaction> transactions = Arrays.asList(
             new Transaction(raoul, 2011, 300),
             new Transaction(brian, 2012, 1000),
             new Transaction(raoul, 2011, 400),
@@ -44,7 +44,7 @@ public class TradeMain {
                 .sorted(Comparator.comparing(trader -> trader.getName()))
                 .collect(Collectors.toList());
         System.out.println(traders1);
-
+        System.out.println("--------");
         //返回所有交易员的姓名字符串，按字母排序
         String trade_names = transactions.stream()
                 .map(t -> t.getTrader())

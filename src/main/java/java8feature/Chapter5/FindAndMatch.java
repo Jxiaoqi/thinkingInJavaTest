@@ -61,7 +61,6 @@ public class FindAndMatch {
         //T reduce(T identity, BinaryOperator<T> accumulator);
         int num = numbers.stream().reduce(0, (a, b ) -> a + b);
         System.out.println(num);
-
         //public static int sum(int a, int b)
         int num1 = numbers.stream().reduce(0,Integer::sum);
         System.out.println(num1);
@@ -70,10 +69,11 @@ public class FindAndMatch {
         Optional<Integer> sum3 = numbers.stream().reduce((a, b) -> a + b);
         System.out.println(sum3);
 
-   //reduce 求最大最小值
+        //reduce 求最大最小值
         Optional<Integer> max = numbers.stream().reduce(Integer::max);
         System.out.println(max);
 
+        System.out.println("----------");
         Optional<Integer> min = numbers.stream().reduce(Integer::min);
         System.out.println(min);
 
