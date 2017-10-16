@@ -1,6 +1,7 @@
 package java8feature.Chapter4;
 
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 import java.util.stream.Stream;
 
@@ -21,7 +22,14 @@ public class StreamVsCollection {
          */
         //s.forEach(System.out :: println);
 
-
+        List<String> words = Arrays.asList("h", "g", "a", "d");
+        words.stream().sorted((w1, w2) -> {
+            System.out.println("srot: " + w1 + ", " + w2);
+            return w1.compareTo(w2);
+        }).map(s1 -> {
+            System.out.println("map: " + s1);
+            return s1;
+        }).forEach(s1 -> System.out.println("forEach: " + s1));
 
     }
 }
