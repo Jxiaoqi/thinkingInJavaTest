@@ -1,8 +1,6 @@
 package access;
 
-import sun.tools.tree.DoubleExpression;
 
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -31,10 +29,14 @@ public class Test2 {
         setAll.addAll(set2);
         System.out.println(setAll);
 
-        Integer a = 42;
+        Double a = 42.0;
         Integer b = 7021;
-        Double d = (double)a/b;
+        Double d = a/b;
         System.out.println(d);
+
+        Integer i1 = 67;
+        Integer i2 = 51;
+        System.out.println((double)i2 / i1);
 
         
     }
