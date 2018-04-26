@@ -1,4 +1,4 @@
-package concurrency.ountdownlatchtest;
+package concurrency.countdownlatchtest;
 
 /**
  *  * 系统启动主线程

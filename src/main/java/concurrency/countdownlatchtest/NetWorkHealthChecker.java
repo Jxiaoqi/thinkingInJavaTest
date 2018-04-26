@@ -1,18 +1,19 @@
-package concurrency.ountdownlatchtest;
+package concurrency.countdownlatchtest;
 
 import java.util.concurrent.CountDownLatch;
 
 /**
- *  * TODO completion javadoc.
+ *  * 网络健康检查
  *  *
  *  * @author xiaoqi
  *  * @since 08 十二月 2017
  *  
  */
-public class DataBaseHealthChecker extends BaseHealthChecker {
+public class NetWorkHealthChecker extends BaseHealthChecker {
 
-    public DataBaseHealthChecker (CountDownLatch countDownLatch) {
-        super("DataBase service", countDownLatch);
+
+    public NetWorkHealthChecker (CountDownLatch countDownLatch) {
+        super("NetWorkService", countDownLatch);
     }
 
     /**
@@ -26,6 +27,6 @@ public class DataBaseHealthChecker extends BaseHealthChecker {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        System.out.println(this.getServiceName() + "is UP");
+        System.out.println(this.getServiceName() + " is UP");
     }
 }

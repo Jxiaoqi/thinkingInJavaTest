@@ -1,6 +1,8 @@
 package java8feature;
 
 
+import java.time.LocalDateTime;
+import java.time.temporal.ChronoField;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -30,5 +32,9 @@ public class FunctionTest {
                 (String s) -> s.length()
         );
         System.out.println(l);
+
+        LocalDateTime mondayOfLastFourWeek = LocalDateTime.now().minusWeeks(-4).with(ChronoField.DAY_OF_WEEK, 1);
+        System.out.println(mondayOfLastFourWeek);
     }
+
 }

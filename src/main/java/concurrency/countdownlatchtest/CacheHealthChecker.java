@@ -1,4 +1,4 @@
-package concurrency.ountdownlatchtest;
+package concurrency.countdownlatchtest;
 
 import java.util.concurrent.CountDownLatch;
 
