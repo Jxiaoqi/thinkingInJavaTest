@@ -1,5 +1,8 @@
 package arithmetic.leetcode;
 
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * 两数相加 Two Sum Given an array of integers, return indices of the two numbers such that they add up
  * to a specific target. You may assume that each input would have exactly one solution. Example:
@@ -15,7 +18,7 @@ public class TwoSumTest {
 
     public static void main(String[] args) {
         int source[] = {1, 3, 5, 7, 9};
-        int index[] = twoSum(source, 10);
+        int index[] = twoSum1(source, 10);
         System.out.println("和为 10的两个下标为： ");
         for (int i = 0; i < index.length; i++) {
             System.out.print(index[i] + ", ");
@@ -42,6 +45,31 @@ public class TwoSumTest {
                 }
             }
         }
+        return new int[] {-1, -1};
+    }
+    
+    /**
+     * 拿空间换时间， 时间复杂度 o(n)
+     * @param source
+     * @param target
+     * @return
+     */
+    public static int[] twoSum1(int[] source, int target) {
+        
+        if (source == null) {
+            return new int[] {-1, -1};
+        }
+        
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i < source.length; i++) {
+            int exceptNum = target - source[i];
+            if (map.containsKey(exceptNum)) {
+                return new int[] {map.get(exceptNum), i};
+            } else {
+                map.put(source[i], i);
+            }
+        }
+        
         return new int[] {-1, -1};
     }
 
