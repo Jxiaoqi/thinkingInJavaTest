@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/java8feature/AppplesFilter.java" description="List&lt;Apple&gt; greenApples = filterApples(inventory, ..." line="19" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddb03d72-c107-4d7e-af8c-ddcb27dfd3cd" name="Default" comment="" />
+    <list default="true" id="ddb03d72-c107-4d7e-af8c-ddcb27dfd3cd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/java8feature/Apple.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
-              <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+              <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -1064,6 +1066,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="1461" column="25" lean-forward="false" selection-start-line="1461" selection-start-column="25" selection-end-line="1461" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1098,13 +1101,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="554">
           <caret line="421" column="29" lean-forward="false" selection-start-line="421" selection-start-column="25" selection-end-line="421" selection-end-column="29" />
+          <folding>
+            <element signature="e#16338#16339#0" expanded="false" />
+            <element signature="e#16420#16421#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java8feature/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+          <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
           <folding />
         </state>
       </provider>
