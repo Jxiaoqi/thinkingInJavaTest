@@ -1,6 +1,13 @@
 package java8feature;
 
 
+import com.google.common.collect.Lists;
+
+import java.util.List;
+import java.util.Map;
+import java.util.function.Function;
+import java.util.stream.Collectors;
+
 public class Apple extends Fruit {
 
     private Integer weight = 0;
@@ -40,5 +47,11 @@ public class Apple extends Fruit {
                 "weight=" + weight +
                 ", color='" + color + '\'' +
                 '}';
+    }
+
+    public static void main (String[] args) {
+        List<Apple> apples = Lists.newArrayList();
+        Map<Integer, Apple> map = apples.stream().collect(Collectors.toMap(Apple::getWeight, Function.identity()));
+        System.out.println(map);
     }
 }

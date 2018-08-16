@@ -1,15 +1,26 @@
 package java8feature;
 
+import com.google.common.collect.Lists;
+import lombok.Data;
+
 import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
 import java.util.function.Supplier;
+import java.util.stream.Collectors;
 
 /**
  * 2.3 方法引用
  方法引用提供了非常有用的语法，可以直接引用已有Java类或对象（实例）的方法或构造器。
  与lambda联合使用，方法引用可以使语言的构造更紧凑简洁，减少冗余代码。
  */
+@Data
 public class Car {
+
+    private String year;
+
+    private String machine;
+
     public static Car create(final Supplier<Car> supplier) {
         return  supplier.get();
     }
@@ -44,6 +55,10 @@ public class Car {
          Repaired java8feature.Car@27d6c5e0
          Following the java8feature.Car@27d6c5e0
          */
+
+        List<Car> cars1 = Lists.newArrayList();
+        Map<String, Map<String, List<Car>>> map =
+                cars1.stream().collect(Collectors.groupingBy(Car::getYear, Collectors.groupingBy(Car::getMachine)));
 
     }
 }
