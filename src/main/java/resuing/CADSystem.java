@@ -12,8 +12,8 @@ import static util.Print.*;
  *
  */
 class Shape {
-  Shape(int i) { print("Shape constructor"); }
-  void dispose() { print("Shape dispose"); }
+  Shape(int i) { print("Shapes constructor"); }
+  void dispose() { print("Shapes dispose"); }
 }
 
 class Circle extends Shape {
@@ -83,28 +83,28 @@ public class CADSystem extends Shape {
     }
   }
 } /* Output:
-Shape constructor
-Shape constructor
+Shapes constructor
+Shapes constructor
 Drawing Line: 0, 0
-Shape constructor
+Shapes constructor
 Drawing Line: 1, 1
-Shape constructor
+Shapes constructor
 Drawing Line: 2, 4
-Shape constructor
+Shapes constructor
 Drawing Circle
-Shape constructor
+Shapes constructor
 Drawing Triangle
 Combined constructor
 CADSystem.dispose()
 Erasing Triangle
-Shape dispose
+Shapes dispose
 Erasing Circle
-Shape dispose
+Shapes dispose
 Erasing Line: 2, 4
-Shape dispose
+Shapes dispose
 Erasing Line: 1, 1
-Shape dispose
+Shapes dispose
 Erasing Line: 0, 0
-Shape dispose
-Shape dispose
+Shapes dispose
+Shapes dispose
 *///:~
