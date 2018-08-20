@@ -1,11 +1,11 @@
-package typeinfo;
+package letcode;
 
 /**
  *  * TODO completion javadoc.
  *  *
  *  * @author xiaoqi
- *  * @since 21 八月 2018
+ *  * @since 20 八月 2018
  *  
  */
-public class FilledList {
+public class Solution {
 }

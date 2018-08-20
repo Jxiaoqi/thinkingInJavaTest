@@ -7,5 +7,5 @@ package typeinfo;
  *  * @since 21 八月 2018
  *  
  */
-public class FilledList {
+public class GenericToyTest {
 }
