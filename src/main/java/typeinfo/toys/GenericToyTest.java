@@ -15,6 +15,6 @@ public class GenericToyTest {
         Class<? super FactoryToy> superclass = factoryToyClass.getSuperclass();
        // this won't compile
         //Class<Toy> up2 = factoryToyClass.getSuperclass();
-        Object object = superclass.newInstance();
+        superclass.newInstance();
     }
 }
