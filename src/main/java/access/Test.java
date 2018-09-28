@@ -30,7 +30,8 @@ public class Test {
                 A.builder().a(4).build(),
                 A.builder().a(7).build());
 
-        List<A> list1 = list.stream().sorted(Comparator.comparing(A::getA).reversed()).collect(Collectors.toList());
+        List<A> list1 =
+                list.stream().sorted(Comparator.comparing(A::getA).reversed()).collect(Collectors.toList());
         System.out.println(list1);
     }
 

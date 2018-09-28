@@ -1,7 +1,6 @@
 //: typeinfo/pets/ForNameCreator.java
 package typeinfo.pets;
 
-import javax.management.NotificationEmitter;
 import java.util.*;
 
 public class ForNameCreator extends PetCreator {
