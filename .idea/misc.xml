@@ -6,8 +6,8 @@
     <option name="importOrderConfigFilePath" value="$PROJECT_DIR$/../../../tools/apache-maven-3.3.9/conf/settings.xml" />
     <option name="importOrderFromFile" value="true" />
     <option name="name" value="default" />
-    <option name="pathToConfigFileJava" value="$USER_HOME$/Downloads/WormpexFormat.xml" />
-    <option name="selectedJavaProfile" value="Wormpex" />
+    <option name="pathToConfigFileJava" value="$USER_HOME$/Downloads/default.xml" />
+    <option name="selectedJavaProfile" value="default" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
