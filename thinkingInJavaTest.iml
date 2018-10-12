@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/Exceptions" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/access" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/arithmetic" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/arraytest" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/chapter_11" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/chapter_one" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/concurrency" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/control" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/holding" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/inerclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/initiallization" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/interfaces" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/java8feature" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/letcode" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/operators" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/poi" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/polymorphism" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/resuing" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/rtti" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/seriliable_class" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/typeinfo" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/util" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.6" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: junit:junit:4.12" level="project" />
     <orderEntry type="library" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
