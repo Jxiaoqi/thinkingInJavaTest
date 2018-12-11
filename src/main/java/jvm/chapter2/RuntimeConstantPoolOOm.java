@@ -16,7 +16,7 @@ import java.util.List;
  * 运行结果：
  *  1。6      Exception in thread "main" java.lang.OutOfMemoryError: PermGen space
             at java.lang.String.intern(Native Method)
-            at jvm.chapter2.RuntionConstantPoolOOm.main(RuntionConstantPoolOOm.java:19)
+            at jvm.chapter2.RuntimeConstantPoolOOm.main(RuntimeConstantPoolOOm.java:19)
 
     1.7 while循环将一直运行下去
 
@@ -24,13 +24,15 @@ import java.util.List;
  * @author xiaoqi
  * @since 12 十月 2018
  */
-public class RuntionConstantPoolOOm {
+public class RuntimeConstantPoolOOm {
 
     public static void main (String[] args) {
+        //实用list 保持着常量池的引用，避免 full gc 回收常量池行为
         List<String> list = new ArrayList<String>();
+        //10MB的 PermSize在Integer的范围内足够产生OOM， 大约 1885506 会发生
         int i = 0;
         while (true) {
-            list.add(String.valueOf(i++).intern());
+            list.add(String.valueOf(i++));
         }
     }
 }

@@ -34,3 +34,7 @@ gen
 /bin/
 /.idea/
 /target/
+*.repositories
+*.sha1
+*.pom
+*.lastUpdated
