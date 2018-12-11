@@ -7,28 +7,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/Exceptions" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/access" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/arithmetic" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/arraytest" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/chapter_11" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/chapter_one" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/concurrency" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/control" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/holding" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/inerclasses" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/initiallization" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/interfaces" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/java8feature" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/letcode" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/operators" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/poi" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/polymorphism" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/resuing" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/rtti" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/seriliable_class" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/typeinfo" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/util" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
@@ -48,5 +26,8 @@
     <orderEntry type="library" name="Maven: cglib:cglib:2.2.2" level="project" />
     <orderEntry type="library" name="Maven: asm:asm:3.3.1" level="project" />
     <orderEntry type="library" name="Maven: com.belerweb:pinyin4j:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: redis.clients:jedis:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.22" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-pool2:2.4.3" level="project" />
   </component>
 </module>
