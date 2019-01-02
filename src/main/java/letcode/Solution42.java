@@ -28,7 +28,7 @@ public class Solution42 {
      * @return
      */
     public static int trap (int[] height) {
-        Stopwatch stopwatch = new Stopwatch();
+        Stopwatch stopwatch = Stopwatch.createStarted();
         stopwatch.start();
         if (height.length == 0) {
             return 0;
@@ -58,7 +58,7 @@ public class Solution42 {
             }
         }
         stopwatch.stop();
-        System.out.println(stopwatch.elapsedTime(TimeUnit.MILLISECONDS) + " ms");
+        System.out.println(stopwatch.elapsed(TimeUnit.MILLISECONDS) + " ms");
         return count;
     }
 
