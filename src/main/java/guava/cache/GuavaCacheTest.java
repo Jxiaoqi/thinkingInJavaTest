@@ -2,6 +2,8 @@ package guava.cache;
 
 import com.google.common.cache.Cache;
 import com.google.common.cache.CacheBuilder;
+import com.google.common.cache.CacheLoader;
+import com.google.common.cache.LoadingCache;
 import com.google.common.cache.RemovalListener;
 import com.google.common.cache.RemovalNotification;
 import com.google.common.collect.Lists;
@@ -16,6 +18,12 @@ import java.util.concurrent.TimeUnit;
 import static sun.misc.PostVMInitHook.run;
 
 public class GuavaCacheTest {
+    
+    Cache<String, String> cache = CacheBuilder.newBuilder()
+            .maximumSize(3)
+            .build();
+    
+   
     
     @Test
     public void cacheBuild() {
@@ -32,8 +40,8 @@ public class GuavaCacheTest {
         cache.put("key1", "value1");
         cache.put("key2", "value2");
         cache.put("key3", "value3");
-    
-        System.out.println("第一个值: " +  cache.getIfPresent("key1"));
+        
+        System.out.println("第一个值: " + cache.getIfPresent("key1"));
         System.out.println("第二个值: " + cache.getIfPresent("key2"));
         System.out.println("第三个值: " + cache.getIfPresent("key3"));
     }
@@ -88,10 +96,10 @@ public class GuavaCacheTest {
         cacheBuilder.put("key1", "value1");
         cacheBuilder.put("key2", "value2");
         cacheBuilder.put("key3", "value3");
-    
+        
         List<String> list = Lists.newArrayList("key1", "key2");
         cacheBuilder.invalidateAll(list);
-    
+        
         System.out.println(cacheBuilder.getIfPresent("key1"));
         System.out.println(cacheBuilder.getIfPresent("key2"));
         System.out.println(cacheBuilder.getIfPresent("key3"));
@@ -126,48 +134,76 @@ public class GuavaCacheTest {
      */
     @Test
     public void callableTest() {
-        Cache<String, String> cache = CacheBuilder.newBuilder()
-                .maximumSize(3)
-                .build();
-        int a = 15;
-        new Thread(() -> {
-            System.out.println("thread1");
-            System.out.println("获取的局部变量： " + a);
-            try {
-                String value = cache.get("key", new Callable() {
-                    @Override
-                    public Object call() throws Exception {
-                        System.out.println("load1");
-                        Thread.sleep(1000);
-                        return "auto load by Callable1";
-                    }
-                });
-                System.out.println("thread1 : " + value);
-            } catch (ExecutionException e) {
-                e.printStackTrace();
+        
+        
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("thread1");
+                try {
+                    String value = cache.get("key", new Callable<String>() {
+                        @Override
+                        public String call() throws Exception {
+                            System.out.println("load1"); //加载数据线程执行标志
+                            Thread.sleep(1000); //模拟加载时间
+                            return "auto load by Callable";
+                        }
+                    });
+                    System.out.println("thread1 " + value);
+                } catch (ExecutionException e) {
+                    e.printStackTrace();
+                }
             }
-    
         }).start();
         
-        new Thread(() -> {
-            System.out.println("thread2");
-            System.out.println("获取的局部变量： " + a);
-            try {
-                String value = cache.get("key", new Callable() {
-                    @Override
-                    public Object call() throws Exception {
-                        System.out.println("load2");
-                        Thread.sleep(1000);
-                        return "auto load by Callable2";
-                    }
-                });
-                System.out.println("thread2 : " + value);
-            } catch (ExecutionException e) {
-                e.printStackTrace();
+        
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("thread2");
+                try {
+                    String value = cache.get("key", new Callable<String>() {
+                        @Override
+                        public String call() throws Exception {
+                            System.out.println("load2"); //加载数据线程执行标志
+                            Thread.sleep(1000); //模拟加载时间
+                            return "auto load by Callable";
+                        }
+                    });
+                    System.out.println("thread2 " + value);
+                } catch (ExecutionException e) {
+                    e.printStackTrace();
+                }
             }
         }).start();
-    
-    
+        
         System.out.println("stop");
     }
+    
+    
+    public static void main(String[] args) throws ExecutionException, InterruptedException {
+        Cache<String, String> build = CacheBuilder.newBuilder()
+                .refreshAfterWrite(1, TimeUnit.MILLISECONDS)
+                .build(new CacheLoader<String, String>() {
+                    @Override
+                    public String load(String key) throws Exception {
+                        System.out.println("load");
+                        if (key.equals("a")) {
+                            return "A";
+                        }
+                        return "C";
+                    }
+                });
+    
+        while (true) {
+            Thread.sleep(2000);
+            System.out.println(((LoadingCache<String, String>) build).getUnchecked("a"));
+            System.out.println(build.getIfPresent("a"));
+//            System.out.println(((LoadingCache<String, String>) build).get("a"));
+        }
+        
+    }
+    
+    
+    
 }

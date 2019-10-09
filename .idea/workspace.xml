@@ -4,11 +4,57 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/java8feature/AppplesFilter.java" description="List&lt;Apple&gt; greenApples = filterApples(inventory, ..." line="19" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddb03d72-c107-4d7e-af8c-ddcb27dfd3cd" name="Default" comment="gitignore">
-      <change afterPath="$PROJECT_DIR$/src/main/java/concurrency/AwaitTerminateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/guava/cache/GuavaCacheTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/guava/package-info.java" afterDir="false" />
+    <list default="true" id="ddb03d72-c107-4d7e-af8c-ddcb27dfd3cd" name="Default" comment="guava cache test">
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/daemon_thread/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/daemon_thread/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/extthread/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/extthread/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/stopThrowLock/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/stopThrowLock/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/stopThrowLock/SynchronizedObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_deal_lock/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_deal_lock/SynchronizedObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_nosameValue/MyObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_nosameValue/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_test/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_test/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t11/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t11/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t11/Run1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t11/Run3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t14/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t14/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t15/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t15/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t17/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t17/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t4_threadsafe/ALogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t4_threadsafe/BLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t4_threadsafe/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t4_threadsafe/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t6/CountOperate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t6/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t6/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t6/Run1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t6/Run2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t7/CounterOperate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t7/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t7/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/useReturnInterrupt/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/useReturnInterrupt/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/useStopMethodThreadTest/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/useStopMethodThreadTest/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/useStopMethodThreadTest1/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/useStopMethodThreadTest1/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrency/threadpool/BeeperControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guava/cache/GuavaCacheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guava/cache/GuavaCacheTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinkingInJavaTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/thinkingInJavaTest.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,39 +67,85 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/guava/package-info.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/annotation/Hello.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/annotation/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/classes/annotation/Hello.class">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/classes/annotation/Test.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/guava/cache/GuavaCacheTest.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            <state relative-caret-position="-5179">
+              <caret line="80" column="56" selection-start-line="80" selection-start-column="52" selection-end-line="80" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="482" column="26" selection-start-line="482" selection-start-column="26" selection-end-line="482" selection-end-column="26" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#23047#23048#0" expanded="true" />
+                <element signature="e#23104#23105#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/reflect/InvocationHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+            <state relative-caret-position="36">
+              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/AwaitTerminateTest.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="260">
+              <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/Serializable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -72,9 +164,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>FileOutpu</find>
-      <find>data.txt</find>
-      <find>lines</find>
       <find>stream</find>
       <find>插入</find>
       <find>排序</find>
@@ -102,6 +191,9 @@
       <find>sorted</find>
       <find>wormpex</find>
       <find>go</find>
+      <find>interrupted</find>
+      <find>refresh</find>
+      <find>after</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -109,6 +201,7 @@
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/bin/interfaces</dir>
+      <dir>$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/useStopMethodThreadTest</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -120,57 +213,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/simpledateformat/DateUtilTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java8feature/SortTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java8feature/FunctionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java8feature/FlatMapTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/simpledateformat/DateUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java8feature/Apple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/holding/Map2MapTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/holding/MapContainsKeyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/CallDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Exceptions/FinallyReturnException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java8feature/Car.java" />
-        <option value="$PROJECT_DIR$/src/main/java/rtti/Shape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/rtti/Shapes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/rtti/SweetShop.java" />
-        <option value="$PROJECT_DIR$/src/main/java/rtti/README.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/toys/ToyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/ClassIntialization.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/FilledList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/GenericToyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/toys/GenericToyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/letcode/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/letcode/TwoDimensionalArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/pets/PetCreator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/pets/ForNameCreator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/pets/PetCount.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/pets/LiteralPetCreator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/util/MapData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/pets/PetCount4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/pets/TypeCounter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/access/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/letcode/PivotIndex.java" />
-        <option value="$PROJECT_DIR$/src/main/java/letcode/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/letcode/Solution54.java" />
-        <option value="$PROJECT_DIR$/src/main/java/access/Cake.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter2/RuntionConstantPoolOOm.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter2/RuntimeConstantPoolOOm.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter2/RuntimeConstantPoolOOm2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter2/JavaMethodAreaOOm.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter2/DirectMemoryOOm.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter2/ReferenceCountingGC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/chapter2/FInalizeEscapeGC.java" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/util/LockServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/util/SingleTaskTemplate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/util/BaseSingleTaskTemplate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/reflect/Person.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/letcode/Solution42.java" />
-        <option value="$PROJECT_DIR$/src/main/java/reflect/ReflectionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concurrency/AwaitTerminateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/initiallization/BaseDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/initiallization/TestBaseDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/concurrency/threadpool/ThreadPoolFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/holding/BlockingQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t4_threadsafe/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t4_threadsafe/ALogin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t4_threadsafe/BLogin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t4_threadsafe/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/extthread/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/extthread/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t6/Run1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t6/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t6/Run2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t6/CountOperate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t6/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t7/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t7/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t7/CounterOperate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t11/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t11/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t11/Run1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t11/Run3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t14/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t14/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t15/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t15/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/useStopMethodThreadTest/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/useStopMethodThreadTest/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/useStopMethodThreadTest1/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/useStopMethodThreadTest1/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/stopThrowLock/SynchronizedObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/stopThrowLock/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/useReturnInterrupt/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/useReturnInterrupt/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_test/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_test/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_deal_lock/SynchronizedObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/stopThrowLock/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_deal_lock/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_nosameValue/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_nosameValue/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t17/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t17/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/daemon_thread/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/daemon_thread/Run.java" />
         <option value="$PROJECT_DIR$/src/main/java/guava/cache/GuavaCacheTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/concurrency/threadpool/BeeperControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/concurrency/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/annotation/Hello.java" />
+        <option value="$PROJECT_DIR$/src/main/java/annotation/Test.java" />
       </list>
     </option>
   </component>
@@ -192,10 +285,6 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="thinkingInJavaTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
@@ -213,8 +302,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1920" />
-    <option name="y" value="-180" />
+    <option name="x" value="1440" />
+    <option name="y" value="-111" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -233,28 +322,31 @@
             <path>
               <item name="thinkingInJavaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="thinkingInJavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinkingInJavaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="thinkingInJavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinkingInJavaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="thinkingInJavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinkingInJavaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="thinkingInJavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkingInJavaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkingInJavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinkingInJavaTest" type="b2602c69:ProjectViewProjectNode" />
@@ -284,7 +376,7 @@
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinkingInJavaTest" type="b2602c69:ProjectViewProjectNode" />
@@ -292,13 +384,32 @@
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinkingInJavaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: redis.clients:jedis:3.0.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkingInJavaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkingInJavaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -341,10 +452,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -373,100 +484,85 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GuavaCacheTest.callableTest (4)">
+  <component name="RunManager" selected="Application.Test (2)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BeeperControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.threadpool.BeeperControl" />
+      <module name="thinkingInJavaTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrency.threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuavaCacheTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guava.cache.GuavaCacheTest" />
+      <module name="thinkingInJavaTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guava.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="util.Test" />
+      <module name="thinkingInJavaTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotation.Test" />
+      <module name="thinkingInJavaTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.Test" />
+      <module name="thinkingInJavaTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GuavaCacheTest.callableTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="thinkingInJavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="guava.cache.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="guava.cache" />
-      <option name="MAIN_CLASS_NAME" value="guava.cache.GuavaCacheTest" />
-      <option name="METHOD_NAME" value="callableTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GuavaCacheTest.callableTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="thinkingInJavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="guava.cache.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="guava.cache" />
-      <option name="MAIN_CLASS_NAME" value="guava.cache.GuavaCacheTest" />
-      <option name="METHOD_NAME" value="callableTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GuavaCacheTest.callableTest (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="thinkingInJavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="guava.cache.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="guava.cache" />
-      <option name="MAIN_CLASS_NAME" value="guava.cache.GuavaCacheTest" />
-      <option name="METHOD_NAME" value="callableTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GuavaCacheTest.callableTest (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="thinkingInJavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="guava.cache.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="guava.cache" />
-      <option name="MAIN_CLASS_NAME" value="guava.cache.GuavaCacheTest" />
-      <option name="METHOD_NAME" value="callableTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GuavaCacheTest.callableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="thinkingInJavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="guava.cache.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="guava.cache" />
-      <option name="MAIN_CLASS_NAME" value="guava.cache.GuavaCacheTest" />
-      <option name="METHOD_NAME" value="callableTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -495,19 +591,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.GuavaCacheTest.callableTest" />
-      <item itemvalue="JUnit.GuavaCacheTest.callableTest (1)" />
-      <item itemvalue="JUnit.GuavaCacheTest.callableTest (2)" />
-      <item itemvalue="JUnit.GuavaCacheTest.callableTest (3)" />
-      <item itemvalue="JUnit.GuavaCacheTest.callableTest (4)" />
+      <item itemvalue="Application.GuavaCacheTest" />
+      <item itemvalue="Application.BeeperControl" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GuavaCacheTest.callableTest (4)" />
-        <item itemvalue="JUnit.GuavaCacheTest.callableTest (3)" />
-        <item itemvalue="JUnit.GuavaCacheTest.callableTest (2)" />
-        <item itemvalue="JUnit.GuavaCacheTest.callableTest" />
-        <item itemvalue="JUnit.GuavaCacheTest.callableTest (1)" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.BeeperControl" />
+        <item itemvalue="Application.GuavaCacheTest" />
       </list>
     </recent_temporary>
   </component>
@@ -654,6 +750,32 @@
       <workItem from="1545189189921" duration="720000" />
       <workItem from="1555921998584" duration="8403000" />
       <workItem from="1556606071683" duration="380000" />
+      <workItem from="1559011237714" duration="1179000" />
+      <workItem from="1561111315473" duration="14382000" />
+      <workItem from="1561429267095" duration="12663000" />
+      <workItem from="1562386889159" duration="5414000" />
+      <workItem from="1562588133657" duration="7189000" />
+      <workItem from="1562812338993" duration="863000" />
+      <workItem from="1562860546709" duration="598000" />
+      <workItem from="1563002889328" duration="8562000" />
+      <workItem from="1563200797070" duration="808000" />
+      <workItem from="1563242870544" duration="4287000" />
+      <workItem from="1564400509522" duration="3777000" />
+      <workItem from="1564539310430" duration="2039000" />
+      <workItem from="1564743111054" duration="2052000" />
+      <workItem from="1565092857705" duration="70000" />
+      <workItem from="1565144447541" duration="5153000" />
+      <workItem from="1565778417435" duration="2487000" />
+      <workItem from="1566354857851" duration="2023000" />
+      <workItem from="1566788248574" duration="1160000" />
+      <workItem from="1567150560630" duration="597000" />
+      <workItem from="1567391048286" duration="1780000" />
+      <workItem from="1567761347742" duration="324000" />
+      <workItem from="1567761777312" duration="44000" />
+      <workItem from="1567761856159" duration="120000" />
+      <workItem from="1568889516033" duration="788000" />
+      <workItem from="1569241468926" duration="2546000" />
+      <workItem from="1570526943283" duration="4193000" />
     </task>
     <task id="LOCAL-00004" summary="java8 第6章  规约和汇总">
       <created>1524724716450</created>
@@ -711,43 +833,64 @@
       <option name="project" value="LOCAL" />
       <updated>1555922037640</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="guava cache test">
+      <created>1559011269738</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1559011269738</updated>
+    </task>
+    <task id="LOCAL-00013" summary="练习线程池">
+      <created>1561346509119</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1561346509119</updated>
+    </task>
+    <task id="LOCAL-00014" summary="BlockingQueue test">
+      <created>1561456148588</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1561456148588</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GuavaCacheTest_removalListenerTest - 2019.04.26 at 18h 42m 24s.xml">
-      <configuration name="GuavaCacheTest.removalListenerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GuavaCacheTest_removalListenerTest - 2019.04.26 at 18h 45m 40s.xml">
-      <configuration name="GuavaCacheTest.removalListenerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GuavaCacheTest_callableTest - 2019.04.26 at 19h 03m 37s.xml">
+    <history-entry file="GuavaCacheTest_callableTest - 2019.07.29 at 20h 00m 11s.xml">
       <configuration name="GuavaCacheTest.callableTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GuavaCacheTest_callableTest - 2019.04.26 at 19h 04m 36s.xml">
+    <history-entry file="GuavaCacheTest_callableTest - 2019.07.29 at 20h 01m 36s.xml">
       <configuration name="GuavaCacheTest.callableTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GuavaCacheTest_callableTest_(1) - 2019.04.26 at 19h 06m 08s.xml">
-      <configuration name="GuavaCacheTest.callableTest (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GuavaCacheTest_callableTest - 2019.04.30 at 14h 20m 29s.xml">
+    <history-entry file="GuavaCacheTest_callableTest - 2019.07.29 at 20h 02m 23s.xml">
       <configuration name="GuavaCacheTest.callableTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GuavaCacheTest_callableTest - 2019.04.30 at 14h 22m 00s.xml">
+    <history-entry file="GuavaCacheTest_callableTest - 2019.07.29 at 20h 02m 40s.xml">
       <configuration name="GuavaCacheTest.callableTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GuavaCacheTest_callableTest_(2) - 2019.04.30 at 14h 22m 50s.xml">
+    <history-entry file="GuavaCacheTest_callableTest - 2019.07.29 at 20h 03m 34s.xml">
+      <configuration name="GuavaCacheTest.callableTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GuavaCacheTest_callableTest - 2019.07.29 at 20h 05m 55s.xml">
+      <configuration name="GuavaCacheTest.callableTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GuavaCacheTest_callableTest_(2) - 2019.07.29 at 20h 06m 50s.xml">
       <configuration name="GuavaCacheTest.callableTest (2)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GuavaCacheTest_callableTest_(3) - 2019.04.30 at 14h 22m 54s.xml">
-      <configuration name="GuavaCacheTest.callableTest (3)" configurationId="JUnit" />
+    <history-entry file="GuavaCacheTest_testGuava - 2019.07.29 at 20h 16m 07s.xml">
+      <configuration name="GuavaCacheTest.testGuava" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GuavaCacheTest_callableTest_(4) - 2019.04.30 at 14h 23m 00s.xml">
-      <configuration name="GuavaCacheTest.callableTest (4)" configurationId="JUnit" />
+    <history-entry file="GuavaCacheTest_testGuava_(1) - 2019.07.29 at 20h 19m 56s.xml">
+      <configuration name="GuavaCacheTest.testGuava (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GuavaCacheTest_testGuava - 2019.07.29 at 20h 21m 48s.xml">
+      <configuration name="GuavaCacheTest.testGuava" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="520234000" />
+    <option name="totallyTimeSpent" value="605332000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -759,9 +902,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-180" width="1920" height="1080" extended-state="0" />
+    <frame x="1440" y="-111" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1826411" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20478724" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -771,19 +914,20 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.21360643" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47923324" visible="true" weight="0.23861386" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48411438" weight="0.20990099" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.1256182" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4787234" visible="true" weight="0.08506429" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48411438" weight="0.35014838" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49841145" weight="0.17190929" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5207668" side_tool="true" weight="0.3891089" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5212766" side_tool="true" weight="0.5588526" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32889965" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49841145" weight="0.23994148" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4978701" weight="0.17524752" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4978701" weight="0.31750742" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32972324" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24980143" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.1328125" />
@@ -794,45 +938,46 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.17453505" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" x="-936" y="-454" width="640" height="1390" id="Structure" order="10" weight="0.12087327" />
+      <window_info anchor="right" x="-936" y="-454" width="640" height="1390" id="Structure" order="10" visible="true" weight="0.057446808" />
       <window_info anchor="right" id="Maven" order="11" />
     </layout>
     <layout-to-restore>
-      <window_info id="Learn" order="0" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.1826411" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="JavaEE:App" order="6" side_tool="true" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info id="Web" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="1" />
-      <window_info anchor="bottom" id="Message" order="2" />
-      <window_info anchor="bottom" id="Find" order="3" weight="0.21360643" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" sideWeight="0.47923324" visible="true" weight="0.37524754" />
-      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.48411438" weight="0.20990099" />
-      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.49841145" weight="0.17190929" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5207668" side_tool="true" weight="0.3891089" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32889965" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49841145" weight="0.23994148" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4978701" weight="0.17524752" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
-      <window_info anchor="right" id="Maven" order="0" />
-      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.24980143" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.1328125" />
-      <window_info anchor="right" id="PlantUML" order="4" weight="0.32962668" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.17453505" />
-      <window_info anchor="right" id="Database" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-      <window_info anchor="right" x="-936" y="-454" width="640" height="1390" id="Structure" order="11" weight="0.12087327" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21714285" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="JavaEE:App" order="5" side_tool="true" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Learn" order="8" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32972324" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.1256182" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4787234" visible="true" weight="0.2129964" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.48411438" weight="0.20990099" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49841145" weight="0.17190929" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5212766" side_tool="true" weight="0.5588526" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32889965" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49841145" weight="0.23994148" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4978701" weight="0.31768954" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24980143" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.1328125" />
+      <window_info anchor="right" id="PlantUML" order="3" weight="0.32962668" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.17453505" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" x="-936" y="-454" width="640" height="1390" id="Structure" order="10" weight="0.22071429" />
+      <window_info anchor="right" id="Maven" order="11" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -855,11 +1000,16 @@
     <MESSAGE value="深入理解java虚拟机 第二章 方法去和运行时常量池溢出" />
     <MESSAGE value="分布书锁实现" />
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="guava cache test" />
+    <MESSAGE value="练习线程池" />
+    <MESSAGE value="BlockingQueue test" />
+    <option name="LAST_COMMIT_MESSAGE" value="BlockingQueue test" />
   </component>
   <component name="WindowStateProjectService">
     <state width="463" height="763" key="Git.Branch.Popup" />
+    <state width="463" height="763" key="Git.Branch.Popup/2880.1800/1920.1080" />
     <state width="463" height="763" key="Git.Branch.Popup/2880.1800/2560.1440" />
+    <state width="463" height="763" key="Git.Branch.Popup@1920.1080" />
     <state width="463" height="763" key="Git.Branch.Popup@2560.1440" />
   </component>
   <component name="XDebuggerManager">
@@ -937,6 +1087,26 @@
           <properties />
           <option name="timeStamp" value="65" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/util/Test.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/annotation/Test.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/util/Test.java</url>
+          <line>29</line>
+          <properties class="util.Test" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -945,271 +1115,406 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.classpath">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/arraytest/readme.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/access/Cake.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/useReturnInterrupt/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        <state relative-caret-position="157">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/stopThrowLock/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="144">
+          <caret line="4" column="24" selection-start-line="3" selection-start-column="3" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/useReturnInterrupt/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="180">
+          <caret line="5" column="49" selection-start-line="4" selection-start-column="3" selection-end-line="5" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/String.java" />
-    <entry file="file://$PROJECT_DIR$/thinkingInJavaTest.iml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_test/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+        <state relative-caret-position="576">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter2/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/eclipse-java-google-style.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_test/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="19" column="58" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="58" />
+        <state relative-caret-position="136">
+          <caret line="5" column="24" selection-start-line="4" selection-start-column="25" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter2/RuntimeConstantPoolOOm2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_deal_lock/SynchronizedObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter2/RuntimeConstantPoolOOm.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/stopThrowLock/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="35" />
+        <state relative-caret-position="371">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/reflect/Field.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter2/DirectMemoryOOm.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_deal_lock/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter2/JavaMethodAreaOOm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java8feature/PredicateCombination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="171" column="46" selection-start-line="171" selection-start-column="46" selection-end-line="171" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter2/ReferenceCountingGC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/chapter2/FInalizeEscapeGC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/bin/~/mine_repository/com/googlecode/guava-osgi/guava-osgi/11.0.1/guava-osgi-11.0.1.jar!/com/google/common/base/Stopwatch.class" />
-    <entry file="jar://$APPLICATION_HOME_DIR$/bin/~/mine_repository/redis/clients/jedis/3.0.0/jedis-3.0.0.jar!/redis/clients/jedis/Jedis.class" />
-    <entry file="jar://$APPLICATION_HOME_DIR$/bin/~/mine_repository/redis/clients/jedis/3.0.0/jedis-3.0.0.jar!/redis/clients/jedis/JedisCluster.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/LockService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/java8feature/Defaultable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/bin/~/mine_repository/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre.jar!/com/google/common/base/Stopwatch.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/letcode/Solution42.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        <state relative-caret-position="180">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#270#432#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#568#902#0" expanded="true" />
+            <element signature="e#901#902#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/BaseSingleTaskTemplate.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_nosameValue/MyObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reflect/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="466">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <element signature="e#175#176#0" expanded="false" />
-            <element signature="e#202#203#0" expanded="false" />
-            <element signature="e#243#244#0" expanded="false" />
-            <element signature="e#275#276#0" expanded="false" />
-            <element signature="e#303#304#0" expanded="false" />
-            <element signature="e#329#330#0" expanded="false" />
-            <element signature="e#365#366#0" expanded="false" />
-            <element signature="e#395#396#0" expanded="false" />
-            <element signature="e#563#564#0" expanded="false" />
-            <element signature="e#586#587#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reflect/ReflectionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/suspend_resume_nosameValue/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        <state relative-caret-position="108">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="45" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#229#366#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#453#598#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/AbstractExecutorService.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Queue.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/guava/cache.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t17/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="32" selection-start-line="3" selection-start-column="3" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/t17/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/daemon_thread/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/java_multithread_programming/daemon_thread/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="18" column="54" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="54" />
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre.jar!/com/google/common/cache/RemovalListener.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre-sources.jar!/com/google/common/cache/RemovalListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre-sources.jar!/com/google/common/cache/Cache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="169" column="5" lean-forward="true" selection-start-line="166" selection-start-column="2" selection-end-line="169" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/guava/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/AwaitTerminateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/guava/cache/GuavaCacheTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="-33">
+          <caret line="185" column="24" selection-start-line="185" selection-start-column="17" selection-end-line="185" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre-sources.jar!/com/google/common/cache/LoadingCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2664">
+          <caret line="92" column="16" selection-start-line="92" selection-start-column="4" selection-end-line="92" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre-sources.jar!/com/google/common/cache/LocalCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158760">
+          <caret line="4961" column="13" selection-start-line="4961" selection-start-column="13" selection-end-line="4961" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre-sources.jar!/com/google/common/cache/Cache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4212">
+          <caret line="138" column="7" selection-start-line="138" selection-start-column="7" selection-end-line="138" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre-sources.jar!/com/google/common/cache/CacheLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre-sources.jar!/com/google/common/cache/CacheBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30816">
+          <caret line="930" column="59" selection-start-line="930" selection-start-column="59" selection-end-line="930" selection-end-column="59" />
+          <folding>
+            <element signature="e#10738#10739#0" expanded="true" />
+            <element signature="e#10775#10776#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/threadpool/ThreadPoolFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8712">
+          <caret line="283" column="35" selection-start-line="283" selection-start-column="18" selection-end-line="283" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13860">
+          <caret line="428" column="11" selection-start-line="428" selection-start-column="11" selection-end-line="428" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/threadpool/BeeperControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="80" />
+          <folding>
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrency/CallDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-538">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/TextFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1408">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12420">
+          <caret line="391" column="29" selection-start-line="391" selection-start-column="21" selection-end-line="391" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15516">
+          <caret line="463" column="69" selection-start-line="463" selection-start-column="69" selection-end-line="463" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/javax/annotation/PostConstruct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/time/LocalDateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="1594" column="36" selection-start-line="1594" selection-start-column="23" selection-end-line="1594" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/access/Cookie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="e#56#57#0" expanded="true" />
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/access/Pie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/access/Cake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/access/CholocateChip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/access/IceCream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/access/Lunch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/annotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/annotation/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/annotation/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/annotation/Hello.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/annotation/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/reflect/InvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="482" column="26" selection-start-line="482" selection-start-column="26" selection-end-line="482" selection-end-column="26" />
+          <folding>
+            <element signature="e#23047#23048#0" expanded="true" />
+            <element signature="e#23104#23105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5179">
+          <caret line="80" column="56" selection-start-line="80" selection-start-column="52" selection-end-line="80" selection-end-column="56" />
         </state>
       </provider>
     </entry>
