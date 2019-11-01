@@ -63,6 +63,14 @@
             <artifactId>jedis</artifactId>
             <version>3.0.0</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-aop -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-aop</artifactId>
+            <version>5.2.0.RELEASE</version>
+        </dependency>
+
     </dependencies>
 
     <properties>
