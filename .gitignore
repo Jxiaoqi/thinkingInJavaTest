@@ -38,3 +38,6 @@ gen
 *.sha1
 *.pom
 *.lastUpdated
+*.xml
+.idea/workspace.xml
+.idea/workspace.xml
