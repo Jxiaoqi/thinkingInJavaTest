@@ -132,4 +132,47 @@ public class StringTest {
         System.out.printf("1970-1-1 00:00:00 到现在所经过的毫秒数：%tQ%n", date);
        
     }
+    
+    @Test
+    public void learn1() {
+        //字符串比较
+        String str1 = "hello";
+        String str2 = "hello";
+        
+        System.out.println(str1.equals(str2));
+        
+        System.out.println(str1 == str2);
+        
+        
+        String str3 = new String("hello");
+        
+        System.out.println(str1.equals(str3));
+        System.out.println(str2.equals(str3));
+        
+        System.out.println(str1 == str3);
+        System.out.println(str2 == str3);
+    }
+    
+    @Test
+    public void learn2() {
+        String str1 = "hello";
+        String str2 = "world";
+        
+        String str3 = str1 + str2;
+        String str4 = "hello" + "world";
+        
+        System.out.println(str3.equals(str4));
+        
+        System.out.println(str3 == str4);
+        
+        String str5 = "helloworld";
+        
+        System.out.println(str3.equals(str5));
+        System.out.println(str4.equals(str5));
+        
+        System.out.println(str3 == str5);
+        System.out.println(str4 == str5);
+    }
+    
+    
 }
