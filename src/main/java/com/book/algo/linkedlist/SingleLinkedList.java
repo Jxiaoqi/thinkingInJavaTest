@@ -468,5 +468,8 @@ public class SingleLinkedList {
         Node byIndex1 = singleLinkedList.findByIndex(2);
         Node node = singleLinkedList.localReverse(byIndex1);
         singleLinkedList.printAll();
+        
+        int a = 1 << 3;
+        System.out.println(a);
     }
 }
