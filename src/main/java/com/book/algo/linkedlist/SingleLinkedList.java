@@ -1,7 +1,5 @@
 package com.book.algo.linkedlist;
 
-import javax.xml.crypto.dsig.SignedInfo;
-
 /**
  * 单链表的查找、插入、删除
  * 1. 判断是否是回文链表
