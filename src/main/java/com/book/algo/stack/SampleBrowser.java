@@ -1,5 +1,9 @@
 package com.book.algo.stack;
 
+/**
+ * 基于链表实现的链式栈
+ * 利用链式栈实现浏览器的前进后退功能
+ */
 public class SampleBrowser {
     
     public static void main(String[] args) {
@@ -79,7 +83,7 @@ public class SampleBrowser {
     }
     
     public static class LinkedListBasedStack {
-    
+        
         public static void main(String[] args) {
             LinkedListBasedStack stack = new LinkedListBasedStack();
             stack.push("1");
@@ -87,11 +91,11 @@ public class SampleBrowser {
             stack.push("3");
             stack.push("4");
             stack.print();
-    
+            
             System.out.println(stack.pop());
             
             stack.print();
-    
+            
             System.out.println(stack.getTopData());
         }
         
@@ -101,24 +105,24 @@ public class SampleBrowser {
         private Node createNode(String data, Node next) {
             return new Node(data, next);
         }
-    
+        
         public void clear() {
             this.size = 0;
             this.top = null;
         }
-    
+        
         public void push(String data) {
             Node node = createNode(data, top);
             this.top = node;
             this.size++;
         }
-    
+        
         public String pop() {
             String topData = getTopData();
             top = top.next;
             return topData;
         }
-    
+        
         public String getTopData() {
             if (size() <= 0) {
                 return null;
