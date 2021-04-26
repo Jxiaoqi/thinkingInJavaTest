@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddb03d72-c107-4d7e-af8c-ddcb27dfd3cd" name="Default" comment="基于单链表的LRU 缓存淘汰策略">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/algo/linkedlist/LinkedListAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/algo/stack/SampleBrowser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/algo/linkedlist/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/book/algo/linkedlist/SingleLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +93,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/java8feature" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedListAlgo">
+  <component name="RunManager" selected="Application.SampleBrowser">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -129,20 +128,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LRUBasedArray2$TestLRUBasedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.book.algo.linkedlist.LRUBasedArray2$TestLRUBasedArray" />
-      <module name="thinkingInJavaTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.book.algo.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LinkedListAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.book.algo.linkedlist.LinkedListAlgo" />
       <module name="thinkingInJavaTest" />
@@ -157,13 +142,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.book.algo.linkedlist.SingleLinkedList" />
+    <configuration name="SampleBrowser$LinkedListBasedStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.book.algo.stack.SampleBrowser$LinkedListBasedStack" />
       <module name="thinkingInJavaTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.book.algo.linkedlist.*" />
+          <option name="PATTERN" value="com.book.algo.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleBrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.book.algo.stack.SampleBrowser" />
+      <module name="thinkingInJavaTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.book.algo.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,19 +202,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SingleLinkedList" />
       <item itemvalue="Application.LRUBasedArray" />
-      <item itemvalue="Application.LRUBasedArray2$TestLRUBasedArray" />
       <item itemvalue="Application.LRUBaseLinkedList" />
       <item itemvalue="Application.LinkedListAlgo" />
+      <item itemvalue="Application.SampleBrowser$LinkedListBasedStack" />
+      <item itemvalue="Application.SampleBrowser" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SampleBrowser" />
+        <item itemvalue="Application.SampleBrowser$LinkedListBasedStack" />
         <item itemvalue="Application.LinkedListAlgo" />
         <item itemvalue="Application.LRUBaseLinkedList" />
         <item itemvalue="Application.LRUBasedArray" />
-        <item itemvalue="Application.LRUBasedArray2$TestLRUBasedArray" />
-        <item itemvalue="Application.SingleLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +419,7 @@
       <workItem from="1618052112082" duration="13316000" />
       <workItem from="1618195214918" duration="11174000" />
       <workItem from="1618281479759" duration="2675000" />
-      <workItem from="1618397324576" duration="55810000" />
+      <workItem from="1618397324576" duration="60219000" />
     </task>
     <task id="LOCAL-00004" summary="java8 第6章  规约和汇总">
       <created>1524724716450</created>
@@ -520,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619072824068</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="基于单链表的LRU 缓存淘汰策略">
+      <created>1619359282222</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1619359282222</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -561,22 +567,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="基于单链表的LRU 缓存淘汰策略" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1209" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1619074187564">
-      <screen x="-1920" y="-84" width="1920" height="1080" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1619451222601">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="-1209" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619074187564" />
     <state x="108" y="-872" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-603.-1080.1920.1080@-603.-1080.1920.1080" timestamp="1613484920919" />
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1618932318240" />
-    <state x="-1313" y="423" key="#xdebugger.evaluate" timestamp="1619346130635">
-      <screen x="-1920" y="-84" width="1920" height="1080" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1619451222601" />
+    <state x="483" y="162" key="#xdebugger.evaluate" timestamp="1619452824327">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="-1313" y="423" key="#xdebugger.evaluate/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619346130635" />
-    <state x="483" y="162" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1619277093330" />
-    <state x="-1673" y="-61" width="1515" height="862" key="CommitChangelistDialog2" timestamp="1619072823813">
-      <screen x="-1920" y="-84" width="1920" height="1080" />
+    <state x="483" y="162" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1619452824327" />
+    <state x="185" y="19" width="1515" height="862" key="CommitChangelistDialog2" timestamp="1619359281950">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="-1673" y="-61" width="1515" height="862" key="CommitChangelistDialog2/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619072823813" />
-    <state x="185" y="19" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1618757452373" />
+    <state x="185" y="19" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1619359281950" />
     <state width="492" height="466" key="DebuggerActiveHint" timestamp="1619346110227">
       <screen x="-1920" y="-84" width="1920" height="1080" />
     </state>
@@ -585,71 +591,71 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1618757445705" />
-    <state width="1880" height="186" key="GridCell.Tab.0.bottom" timestamp="1619347033124">
-      <screen x="-1920" y="-84" width="1920" height="1080" />
+    <state width="1400" height="288" key="GridCell.Tab.0.bottom" timestamp="1619453071721">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1880" height="186" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619347033124" />
-    <state width="1400" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619277972056" />
+    <state width="1400" height="288" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619453071721" />
     <state width="1880" height="337" key="GridCell.Tab.0.bottom/0.23.1440.797/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619170470488" />
     <state width="1880" height="62" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-61.1920.1057@-1920.-61.1920.1057" timestamp="1618397214258" />
-    <state width="1880" height="186" key="GridCell.Tab.0.center" timestamp="1619347033122">
-      <screen x="-1920" y="-84" width="1920" height="1080" />
+    <state width="1400" height="288" key="GridCell.Tab.0.center" timestamp="1619453071719">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1880" height="186" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619347033122" />
-    <state width="1400" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619277972054" />
+    <state width="1400" height="288" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619453071719" />
     <state width="1880" height="337" key="GridCell.Tab.0.center/0.23.1440.797/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619170470486" />
     <state width="1880" height="62" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-61.1920.1057@-1920.-61.1920.1057" timestamp="1618397214255" />
-    <state width="1880" height="186" key="GridCell.Tab.0.left" timestamp="1619347033121">
-      <screen x="-1920" y="-84" width="1920" height="1080" />
+    <state width="1400" height="288" key="GridCell.Tab.0.left" timestamp="1619453071718">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1880" height="186" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619347033121" />
-    <state width="1400" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619277972052" />
+    <state width="1400" height="288" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619453071718" />
     <state width="1880" height="337" key="GridCell.Tab.0.left/0.23.1440.797/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619170470482" />
     <state width="1880" height="62" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-61.1920.1057@-1920.-61.1920.1057" timestamp="1618397214253" />
-    <state width="1880" height="186" key="GridCell.Tab.0.right" timestamp="1619347033123">
-      <screen x="-1920" y="-84" width="1920" height="1080" />
+    <state width="1400" height="288" key="GridCell.Tab.0.right" timestamp="1619453071720">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1880" height="186" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619347033123" />
-    <state width="1400" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619277972055" />
+    <state width="1400" height="288" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619453071720" />
     <state width="1880" height="337" key="GridCell.Tab.0.right/0.23.1440.797/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619170470487" />
     <state width="1880" height="62" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-61.1920.1057@-1920.-61.1920.1057" timestamp="1618397214257" />
-    <state width="1880" height="268" key="GridCell.Tab.1.bottom" timestamp="1619346152918">
-      <screen x="-1920" y="-84" width="1920" height="1080" />
+    <state width="1400" height="387" key="GridCell.Tab.1.bottom" timestamp="1619453039208">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1880" height="268" key="GridCell.Tab.1.bottom/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619346152918" />
-    <state width="1400" height="244" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619277972059" />
+    <state width="1400" height="387" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619453039208" />
     <state width="1880" height="337" key="GridCell.Tab.1.bottom/0.23.1440.797/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619170471177" />
     <state width="1880" height="62" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-61.1920.1057@-1920.-61.1920.1057" timestamp="1618397214264" />
-    <state width="1880" height="268" key="GridCell.Tab.1.center" timestamp="1619346152917">
-      <screen x="-1920" y="-84" width="1920" height="1080" />
+    <state width="1400" height="387" key="GridCell.Tab.1.center" timestamp="1619453039207">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1880" height="268" key="GridCell.Tab.1.center/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619346152917" />
-    <state width="1400" height="244" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1619277972058" />
+    <state width="1400" height="387" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1619453039207" />
     <state width="1880" height="337" key="GridCell.Tab.1.center/0.23.1440.797/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619170471172" />
     <state width="1880" height="62" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-61.1920.1057@-1920.-61.1920.1057" timestamp="1618397214262" />
-    <state width="1880" height="268" key="GridCell.Tab.1.left" timestamp="1619346152916">
-      <screen x="-1920" y="-84" width="1920" height="1080" />
+    <state width="1400" height="387" key="GridCell.Tab.1.left" timestamp="1619453039207">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1880" height="268" key="GridCell.Tab.1.left/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619346152916" />
-    <state width="1400" height="244" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1619277972057" />
+    <state width="1400" height="387" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1619453039207" />
     <state width="1880" height="337" key="GridCell.Tab.1.left/0.23.1440.797/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619170471167" />
     <state width="1880" height="62" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-61.1920.1057@-1920.-61.1920.1057" timestamp="1618397214260" />
-    <state width="1880" height="268" key="GridCell.Tab.1.right" timestamp="1619346152917">
-      <screen x="-1920" y="-84" width="1920" height="1080" />
+    <state width="1400" height="387" key="GridCell.Tab.1.right" timestamp="1619453039208">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1880" height="268" key="GridCell.Tab.1.right/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619346152917" />
-    <state width="1400" height="244" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1619277972059" />
+    <state width="1400" height="387" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1619453039208" />
     <state width="1880" height="337" key="GridCell.Tab.1.right/0.23.1440.797/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619170471174" />
     <state width="1880" height="62" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-61.1920.1057@-1920.-61.1920.1057" timestamp="1618397214263" />
     <state x="-113" y="-797" key="IDE.errors.dialog" timestamp="1613486542012">
       <screen x="-603" y="-1080" width="1920" height="1080" />
     </state>
     <state x="-113" y="-797" key="IDE.errors.dialog/0.0.1440.900/-603.-1080.1920.1080@-603.-1080.1920.1080" timestamp="1613486542012" />
-    <state x="-1493" y="144" key="Vcs.Push.Dialog.v2" timestamp="1619072825231">
-      <screen x="-1920" y="-84" width="1920" height="1080" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1619359283304">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="-1493" y="144" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619072825231" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1618757453726" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1619359283304" />
     <state x="485" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618243763517">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -796,6 +802,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/book/algo/linkedlist/LinkedListAlgo.java</url>
           <line>265</line>
           <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/book/algo/stack/SampleBrowser.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/book/algo/stack/SampleBrowser.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/util/Test.java</url>
