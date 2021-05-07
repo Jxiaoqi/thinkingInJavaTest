@@ -1,7 +1,6 @@
 package com.book.algo.array;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
  * 实现一个动态扩容的数组
