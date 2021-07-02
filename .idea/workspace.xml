@@ -35,15 +35,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddb03d72-c107-4d7e-af8c-ddcb27dfd3cd" name="Default" comment="队列">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/algo/Heap/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/algo/Heap/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/algo/sort/Sorts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/algo/sort2/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/algo/sort2/MergeSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/algo/sort2/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/algo/sort2/QuickSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/algo/tree/BinarySearchTree.java" afterDir="false" />
+    <list default="true" id="ddb03d72-c107-4d7e-af8c-ddcb27dfd3cd" name="Default" comment="树">
+      <change afterPath="$PROJECT_DIR$/src/main/java/holding/PriorityQueueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +124,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/java8feature" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearchTree">
+  <component name="RunManager" selected="Application.PriorityQueueTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -180,13 +173,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.book.algo.sort2.QuickSortTest" />
+    <configuration name="PriorityQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="holding.PriorityQueueTest" />
       <module name="thinkingInJavaTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.book.algo.sort2.*" />
+          <option name="PATTERN" value="holding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,13 +187,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sorts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.book.algo.sort.Sorts" />
+    <configuration name="QuickSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.book.algo.sort2.QuickSortTest" />
       <module name="thinkingInJavaTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.book.algo.sort.*" />
+          <option name="PATTERN" value="com.book.algo.sort2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,19 +233,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Sorts" />
       <item itemvalue="Application.Music4" />
       <item itemvalue="Application.MergeSortTest" />
       <item itemvalue="Application.QuickSortTest" />
       <item itemvalue="Application.BinarySearchTree" />
+      <item itemvalue="Application.PriorityQueueTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PriorityQueueTest" />
         <item itemvalue="Application.BinarySearchTree" />
         <item itemvalue="Application.QuickSortTest" />
         <item itemvalue="Application.MergeSortTest" />
         <item itemvalue="Application.Music4" />
-        <item itemvalue="Application.Sorts" />
       </list>
     </recent_temporary>
   </component>
@@ -472,7 +465,7 @@
       <workItem from="1624463436846" duration="3652000" />
       <workItem from="1624528278748" duration="5843000" />
       <workItem from="1624888982648" duration="471000" />
-      <workItem from="1624889567166" duration="2763000" />
+      <workItem from="1624889567166" duration="6011000" />
     </task>
     <task id="LOCAL-00004" summary="java8 第6章  规约和汇总">
       <created>1524724716450</created>
@@ -607,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620379242934</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="树">
+      <created>1625218403094</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1625218403094</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -659,7 +659,8 @@
     <MESSAGE value="基于单链表的LRU 缓存淘汰策略" />
     <MESSAGE value="基于链表实现的链式栈&#10;利用链式栈实现浏览器的前进后退功能" />
     <MESSAGE value="队列" />
-    <option name="LAST_COMMIT_MESSAGE" value="队列" />
+    <MESSAGE value="树" />
+    <option name="LAST_COMMIT_MESSAGE" value="树" />
   </component>
   <component name="WindowStateProjectService">
     <state x="345" y="-1163" key="#com.intellij.ide.util.MemberChooser" timestamp="1624889780950">
@@ -673,10 +674,10 @@
     </state>
     <state x="-1314" y="423" key="#xdebugger.evaluate/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1624534417511" />
     <state x="566" y="327" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1620922693641" />
-    <state x="-1673" y="-61" width="1515" height="862" key="CommitChangelistDialog2" timestamp="1620379242773">
+    <state x="-1673" y="-61" width="1673" height="862" key="CommitChangelistDialog2" timestamp="1625218402870">
       <screen x="-1920" y="-84" width="1920" height="1080" />
     </state>
-    <state x="-1673" y="-61" width="1515" height="862" key="CommitChangelistDialog2/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1620379242773" />
+    <state x="-1673" y="-61" width="1673" height="862" key="CommitChangelistDialog2/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1625218402870" />
     <state x="185" y="2" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1619453341777" />
     <state width="468" height="389" key="DebuggerActiveHint" timestamp="1622131037795">
       <screen x="0" y="0" width="1440" height="900" />
@@ -687,37 +688,37 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1618757445705" />
-    <state width="1400" height="296" key="GridCell.Tab.0.bottom" timestamp="1624545962016">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1880" height="266" key="GridCell.Tab.0.bottom" timestamp="1625221526954">
+      <screen x="-1920" y="-84" width="1920" height="1080" />
     </state>
-    <state width="1880" height="361" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1624534395433" />
+    <state width="1880" height="266" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1625221526954" />
     <state width="1400" height="296" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1624545962016" />
     <state width="1880" height="337" key="GridCell.Tab.0.bottom/0.23.1440.797/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619170470488" />
     <state width="1400" height="66" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1621782513716" />
     <state width="1400" height="71" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1620922318832" />
     <state width="1880" height="62" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-61.1920.1057@-1920.-61.1920.1057" timestamp="1618397214258" />
-    <state width="1400" height="296" key="GridCell.Tab.0.center" timestamp="1624545962014">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1880" height="266" key="GridCell.Tab.0.center" timestamp="1625221526952">
+      <screen x="-1920" y="-84" width="1920" height="1080" />
     </state>
-    <state width="1880" height="361" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1624534395431" />
+    <state width="1880" height="266" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1625221526952" />
     <state width="1400" height="296" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1624545962014" />
     <state width="1880" height="337" key="GridCell.Tab.0.center/0.23.1440.797/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619170470486" />
     <state width="1400" height="66" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1621782513714" />
     <state width="1400" height="71" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1620922318830" />
     <state width="1880" height="62" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-61.1920.1057@-1920.-61.1920.1057" timestamp="1618397214255" />
-    <state width="1400" height="296" key="GridCell.Tab.0.left" timestamp="1624545962013">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1880" height="266" key="GridCell.Tab.0.left" timestamp="1625221526951">
+      <screen x="-1920" y="-84" width="1920" height="1080" />
     </state>
-    <state width="1880" height="361" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1624534395430" />
+    <state width="1880" height="266" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1625221526951" />
     <state width="1400" height="296" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1624545962013" />
     <state width="1880" height="337" key="GridCell.Tab.0.left/0.23.1440.797/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619170470482" />
     <state width="1400" height="66" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1621782513713" />
     <state width="1400" height="71" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1620922318826" />
     <state width="1880" height="62" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-61.1920.1057@-1920.-61.1920.1057" timestamp="1618397214253" />
-    <state width="1400" height="296" key="GridCell.Tab.0.right" timestamp="1624545962014">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1880" height="266" key="GridCell.Tab.0.right" timestamp="1625221526953">
+      <screen x="-1920" y="-84" width="1920" height="1080" />
     </state>
-    <state width="1880" height="361" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1624534395432" />
+    <state width="1880" height="266" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1625221526953" />
     <state width="1400" height="296" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1624545962014" />
     <state width="1880" height="337" key="GridCell.Tab.0.right/0.23.1440.797/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1619170470487" />
     <state width="1400" height="66" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1621782513715" />
@@ -807,10 +808,10 @@
       <screen x="-1920" y="-84" width="1920" height="1080" />
     </state>
     <state x="-1295" y="166" key="RollbackChangesDialog/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1622024777861" />
-    <state x="-1493" y="144" key="Vcs.Push.Dialog.v2" timestamp="1620379244036">
+    <state x="-1493" y="144" key="Vcs.Push.Dialog.v2" timestamp="1625218404636">
       <screen x="-1920" y="-84" width="1920" height="1080" />
     </state>
-    <state x="-1493" y="144" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1620379244036" />
+    <state x="-1493" y="144" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1625218404636" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1619453342934" />
     <state x="485" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618243763517">
       <screen x="0" y="0" width="1440" height="900" />
@@ -861,10 +862,10 @@
     </state>
     <state x="-1407" y="168" width="894" height="810" key="run.anything.popup/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1618279627703" />
     <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1620745650072" />
-    <state x="231" y="-1118" width="1192" height="903" key="search.everywhere.popup" timestamp="1624889773811">
-      <screen x="-603" y="-1440" width="2560" height="1440" />
+    <state x="-1295" y="157" width="670" height="676" key="search.everywhere.popup" timestamp="1625218490413">
+      <screen x="-1920" y="-84" width="1920" height="1080" />
     </state>
-    <state x="-1295" y="157" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1620792381080" />
+    <state x="-1295" y="157" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1625218490413" />
     <state x="231" y="-1118" width="1192" height="903" key="search.everywhere.popup/0.0.1440.900/-603.-1440.2560.1440@-603.-1440.2560.1440" timestamp="1624889773811" />
     <state x="469" y="201" width="670" height="564" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1622132697646" />
     <state x="-1295" y="157" width="670" height="676" key="search.everywhere.popup/0.23.1440.797/-1920.-84.1920.1080@-1920.-84.1920.1080" timestamp="1620383225958" />
@@ -1082,6 +1083,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/thinkingInJavaTest$PriorityQueueTest.ic" NAME="PriorityQueueTest Coverage Results" MODIFIED="1625219830028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>holding.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/thinkingInJavaTest$LRUBasedArray.ic" NAME="LRUBasedArray Coverage Results" MODIFIED="1618994004992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.book.algo.linkedlist.*</FILTER>
     </SUITE>
