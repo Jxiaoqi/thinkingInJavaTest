@@ -5,17 +5,14 @@ import com.google.common.cache.CacheBuilder;
 import com.google.common.cache.CacheLoader;
 import com.google.common.cache.LoadingCache;
 import com.google.common.cache.RemovalListener;
-import com.google.common.cache.RemovalNotification;
 import com.google.common.collect.Lists;
-import java8feature.SortTest;
+import com.book.java8feature.SortTest;
 import org.junit.Test;
 
 import java.util.List;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
-
-import static sun.misc.PostVMInitHook.run;
 
 public class GuavaCacheTest {
     

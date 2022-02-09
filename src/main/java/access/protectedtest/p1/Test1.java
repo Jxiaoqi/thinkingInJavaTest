@@ -4,7 +4,7 @@ import access.protectedtest.p11.Son11;
 
 public class Test1 {
     
-    public static void main(String[] args) {
+    public static void main(String[] args) throws CloneNotSupportedException {
         Son1 son1 = new Son1();
         son1.f();
 //        son1.clone();
@@ -12,5 +12,9 @@ public class Test1 {
         Son11 son11 = new Son11();
         son11.f();
 //        son11.clone();
+    
+    
+        Test1 test1 = new Test1();
+        test1.clone();
     }
 }

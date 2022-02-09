@@ -1,11 +1,8 @@
 package polymorphism;
 
-import java8feature.Apple;
-import java8feature.Fruit;
-import java8feature.Strawberry;
-
-import java.util.ArrayList;
-import java.util.List;
+import com.book.java8feature.Apple;
+import com.book.java8feature.Fruit;
+import com.book.java8feature.Strawberry;
 
 /**
  *  *
