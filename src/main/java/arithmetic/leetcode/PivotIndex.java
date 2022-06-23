@@ -1,6 +1,7 @@
-package letcode;
+package arithmetic.leetcode;
 
 import com.google.common.collect.Lists;
+import org.apache.poi.ss.formula.udf.IndexedUDFFinder;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -14,10 +15,10 @@ import java.util.stream.Collectors;
  * @since 27 九月 2018
  */
 public class PivotIndex {
-
+    
     /**
      * 每次计算元素i 左边的总和，右边的总是= 全部元素总和 - 左边 - i 超时
-     * 
+     *
      * @param nums
      * @return
      */
@@ -33,34 +34,40 @@ public class PivotIndex {
         }
         return -1;
     }
-
+    
     /**
      * 基于右边元素的和 = 总和 - 左边元素的和，新开辟一个数组，记录 i 位置的左边元素的和，然后遍历该数组，得到中间下标
+     *
      * @param nums
      * @return
      */
     public static int pivotIndexPlus(int[] nums) {
         int len = nums.length;
-        if (len == 0 || len == 1) {
+        if (len == 0) {
             return -1;
         }
-        int sum = nums[0];
-        int[] left = new int[len];
-        left[0] = 0;
+        if (len == 1) {
+            return 0;
+        }
+        int sum = 0;
+        int[] sums = new int[len];
+        sums[0] = nums[0];
         for (int i = 1; i < len; i++) {
-            left[i] = left[i - 1] + nums[i - 1];
-            sum += nums[i];
+            sums[i] = sums[i - 1] + nums[i - 1];
+            sum = sum + nums[i];
         }
         for (int i = 0; i < len; i++) {
-            if (left[i] == sum - left[i] - nums[i]) {
+            int left = sums[i];
+            int right = sum - sums[i] - nums[i];
+            if (left == right) {
                 return i;
             }
         }
         return -1;
     }
-
+    
     public static void main(String[] args) {
-        int[] nums = { 1, 2, 3 };
-        System.out.println(pivotIndex(nums));
+        int[] nums = {1, 7, 3, 6, 5, 6};
+        System.out.println(pivotIndexPlus(nums));
     }
 }

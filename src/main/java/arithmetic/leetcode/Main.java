@@ -1,4 +1,4 @@
-package letcode;
+package arithmetic.leetcode;
 
 // "static void main" must be defined in a public class.
 public class Main {

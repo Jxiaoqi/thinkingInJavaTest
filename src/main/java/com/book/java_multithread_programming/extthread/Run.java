@@ -1,7 +1,5 @@
 package com.book.java_multithread_programming.extthread;
 
-import com.sun.deploy.security.ruleset.RuleId;
-
 public class Run {
     public static void main(String[] args) {
         MyThread run = new MyThread();

@@ -1,4 +1,4 @@
-package letcode;
+package arithmetic.leetcode;
 
 import arithmetic.Factor;
 
